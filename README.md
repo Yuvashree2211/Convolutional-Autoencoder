@@ -2,6 +2,7 @@
 
 ## AIM
 
+
 To develop a convolutional autoencoder for image denoising application.
 
 ## Problem Statement and Dataset
